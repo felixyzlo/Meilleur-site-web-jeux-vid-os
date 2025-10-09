@@ -1,8 +1,7 @@
 # Meilleur-site-web-jeux-vid-os
 <br>
-Création d'un site web avec des avis impopulaire
-<br>
-#Le cahier des charges 
+
+## Le cahier des charges 
 <br>
 -Trouver un titre accrocheur
 <br>

@@ -3,24 +3,19 @@
 
 ## Le cahier des charges 
 <br>
--Trouver un titre accrocheur
+-Afficher les review
 <br>
--Avoir 5 jeux minimum sur le site web avec un API chacun et accessible gratuitement
+-Afficher des avis par ordre ascendant
 <br>
--Avis pertinents 
+-Pouvoir consulter les jeux vidéos
 <br>
--Site travaillé sérieusement
+-Pouvoir mettre un commentaire 
 <br>
-- Promouvoir un jeu vidéo
+- Afficher 3 catégories de jeu
 - <br>
--Utiliser des pop-ups( fun)
+-être clair et simple à utiliser
 <br>
--Avoir des photos de personnes qui jouent au jeu vidéo
+-Avoir des informations fiables et sures
 <br>
--Utiliser du codage Css et javascript
-<br>
--Avoir un site web esthètique
-<br>
--Présenter 3 genre de jeux vidéos
-<br>
+
 

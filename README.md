@@ -3,19 +3,36 @@
 
 ## Le cahier des charges 
 <br>
--Afficher les review
+Développement WEB : 
 <br>
--Afficher des avis par ordre ascendant
+-Utiliser du HTML, CSS, API et Javascript
+
 <br>
--Pouvoir consulter les jeux vidéos
+Interaction avec API :  
 <br>
--Pouvoir mettre un commentaire 
+-Permettant d’avoir une idée du jeu vidéo
+
 <br>
-- Afficher 3 catégories de jeu
-- <br>
--être clair et simple à utiliser
+-Modélisation :  
 <br>
--Avoir des informations fiables et sures
+-Modéliser l’architecture du site WEB
+-Créer des diagrammes de cas d’utilisation  et d’éxigence
+
 <br>
+Collaboration et gestion de version avec GITHUB : 
+<br>
+-Travailler en équipe sur le même via GITHUB
+-Mettre à jour régulierement le cahier des charges
+
+<br>
+-Désign et expérience utilisateur 
+<br>
+-Concevoir un site avec une interface utilisateur agréable, atypique et claire
+ <br>
+-interaction entre utilisateur via les commentaires
+<br>
+Page de contact : nom,email et snap
+<br>
+-couleurs cohérentes 
 
 

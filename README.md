@@ -1,9 +1,9 @@
 # Meilleur-site-web-jeux-vid-os
 <br>
 
-<title> Le cahier des charges  </title> 
+# Le cahier des charges 
 <br>
-<h1>Développement WEB :  </h1>
+<h2>Développement WEB :  </h2>
 <br>
 -Utiliser du HTML, CSS, API et Javascript
 

@@ -9,13 +9,13 @@
 <br>
 -Utiliser du CSS pour styliser et rendre votre site responsive
 <br>
-Utliser JavaScript pour ajouter de l'interaction et manipuler les données récupérée via une API
+-Utliser JavaScript pour ajouter de l'interaction et manipuler les données récupérée via une API
 <br>
-Afficher ces données sur votre site
+-Afficher ces données sur votre site
 <br>
-Permettre à l'utilisateur d'interagir avec les données, exemple : filtrer ou trier 
+-Permettre à l'utilisateur d'interagir avec les données, exemple : filtrer ou trier 
 <br>
-Utiliser des diagrammes SYSML pour planifier l'architecture du site WEB
+-Utiliser des diagrammes SYSML pour planifier l'architecture du site WEB
 <br>
 -Concevoir un site avec une interface utilisateur agréable, atypique et claire
 <br>
@@ -31,17 +31,17 @@ Utiliser des diagrammes SYSML pour planifier l'architecture du site WEB
 <br>
 -Design responsive : La mise en page doit être adaptée à differentes résolutions d'écran, avec un style 
 <br>
-La mise en page doit être adaptée à différentes résolutions d'écran
+-La mise en page doit être adaptée à différentes résolutions d'écran
 <br>
 -formulaire de connexion avec nom d'utilisateur et mot de passe
 <br>
 -Validation des champs avec JavaScript et stimulation d'une authentification réussie ou d'un message d'erreur.
 <br>
-Page d'inscription : Formulaire d'inscription avec des champs : nom, email, mot de passe 
+-Page d'inscription : Formulaire d'inscription avec des champs : nom, email, mot de passe 
 <br>
-Validation des champs (comparaison ds mots de passe, format de l'email)
+-Validation des champs (comparaison ds mots de passe, format de l'email)
 <br>
-Simulation de la création d'un compte avec un message de confirmation
+-Simulation de la création d'un compte avec un message de confirmation
 
 
 

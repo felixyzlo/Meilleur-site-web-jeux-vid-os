@@ -3,7 +3,7 @@
 
 ## Le cahier des charges 
 <br>
-Développement WEB : 
+## Développement WEB : 
 <br>
 -Utiliser du HTML, CSS, API et Javascript
 
@@ -16,6 +16,7 @@ Interaction avec API :
 -Modélisation :  
 <br>
 -Modéliser l’architecture du site WEB
+<br>
 -Créer des diagrammes de cas d’utilisation  et d’éxigence
 
 <br>
@@ -34,5 +35,17 @@ Collaboration et gestion de version avec GITHUB :
 Page de contact : nom,email et snap
 <br>
 -couleurs cohérentes 
+<br>
+Page d'accueil : 
+<br>
+Présentation générale : description du site (thème jeux vidéos)
+<br>
+Menu de navigation : Liens vers les autres pages du site
+<br>
+Aperçu des données de L'API: brève gameplay du jeu vidéo
+<br>
+Page de services/informatique : 
+<br>
+
 
 

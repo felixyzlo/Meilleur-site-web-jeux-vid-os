@@ -1,7 +1,7 @@
 # Meilleur-site-web-jeux-vid-os
 <br>
 
-<title> Le cahier des charges <title/>
+<title> Le cahier des charges  </title> 
 <br>
 <h1>Développement WEB :  </h1>
 <br>

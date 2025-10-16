@@ -3,7 +3,7 @@
 
 ## Le cahier des charges 
 <br>
-## Développement WEB : 
+<h1>Développement WEB :  </h1>
 <br>
 -Utiliser du HTML, CSS, API et Javascript
 

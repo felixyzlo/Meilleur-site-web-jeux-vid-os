@@ -39,8 +39,6 @@
 <br>
 -Page d'inscription : Formulaire d'inscription avec des champs : nom, email, mot de passe 
 <br>
--Validation des champs (comparaison ds mots de passe, format de l'email)
-<br>
 -Simulation de la création d'un compte avec un message de confirmation
 
 

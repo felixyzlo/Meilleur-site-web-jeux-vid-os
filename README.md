@@ -6,46 +6,47 @@
 <h2>Développement WEB :  </h2>
 <br>
 -Utiliser du HTML, CSS, API et Javascript
-
 <br>
-<h2>Interaction avec API :  </h2>
+-Utiliser du CSS pour styliser et rendre votre site responsive
 <br>
--Permettant d’avoir une idée du jeu vidéo
-
+Utliser JavaScript pour ajouter de l'interaction et manipuler les données récupérée via une API
 <br>
-<h2>-Modélisation :</h2>  
+Afficher ces données sur votre site
 <br>
--Modéliser l’architecture du site WEB
+Permettre à l'utilisateur d'interagir avec les données, exemple : filtrer ou trier 
 <br>
--Créer des diagrammes de cas d’utilisation  et d’éxigence
-
-<br>
-<h2><Collaboration et gestion de version avec GITHUB :</h2> 
-<br>
--Travailler en équipe sur le même via GITHUB
--Mettre à jour régulierement le cahier des charges
-
-<br>
-<h2>-<Désign et expérience utilisateur </h2>
+Utiliser des diagrammes SYSML pour planifier l'architecture du site WEB
 <br>
 -Concevoir un site avec une interface utilisateur agréable, atypique et claire
- <br>
+<br>
 -interaction entre utilisateur via les commentaires
 <br>
-Page de contact : nom,email et snap
+-Page de contact : nom,email et snap
 <br>
--couleurs cohérentes 
+-Présentation générale : description du site (thème jeux vidéos)
 <br>
-<h2>Page d'accueil : </h2>
+-Menu de navigation : Liens vers les autres pages du site
 <br>
-Présentation générale : description du site (thème jeux vidéos)
+-Aperçu des données de L'API: brève gameplay du jeu vidéo
 <br>
-Menu de navigation : Liens vers les autres pages du site
+-Design responsive : La mise en page doit être adaptée à differentes résolutions d'écran, avec un style 
 <br>
-Aperçu des données de L'API: brève gameplay du jeu vidéo
+La mise en page doit être adaptée à différentes résolutions d'écran
 <br>
-<h2>Page de services/informatique :</h2>
+-formulaire de connexion avec nom d'utilisateur et mot de passe
 <br>
+-Validation des champs avec JavaScript et stimulation d'une authentification réussie ou d'un message d'erreur.
+<br>
+Page d'inscription : Formulaire d'inscription avec des champs : nom, email, mot de passe 
+<br>
+Validation des champs (comparaison ds mots de passe, format de l'email)
+<br>
+Simulation de la création d'un compte avec un message de confirmation
+
+
+
+
+
 
 
 

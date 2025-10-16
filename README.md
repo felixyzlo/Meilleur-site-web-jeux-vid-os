@@ -8,12 +8,12 @@
 -Utiliser du HTML, CSS, API et Javascript
 
 <br>
-Interaction avec API :  
+<h2>Interaction avec API :  </h2>
 <br>
 -Permettant d’avoir une idée du jeu vidéo
 
 <br>
--Modélisation :  
+<h2>-Modélisation :</h2>  
 <br>
 -Modéliser l’architecture du site WEB
 <br>

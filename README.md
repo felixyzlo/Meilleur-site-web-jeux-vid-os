@@ -67,4 +67,8 @@
 -Utiliser du codage Css et javascript
 -Avoir un site web esthètique
 -Présenter 3 genre de jeux vidéos
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
 

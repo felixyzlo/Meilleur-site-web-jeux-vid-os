@@ -1,4 +1,5 @@
 # Meilleur-site-web-jeux-vid-os
+<<<<<<< Updated upstream
 <br>
 
 # Le cahier des charges 
@@ -57,3 +58,6 @@
 
 
 
+=======
+Des avis qui feront taire les haineux
+>>>>>>> Stashed changes

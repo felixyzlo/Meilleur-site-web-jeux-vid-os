@@ -1,6 +1,5 @@
 # Meilleur-site-web-jeux-vid-os
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
 <br>
 
 # Le cahier des charges 

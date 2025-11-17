@@ -41,10 +41,12 @@
 <br>
 -Simulation de la création d'un compte avec un message de confirmation
 
-<img width="505" height="499" alt="image" src="https://github.com/user-attachments/assets/dd1bdc89-4e17-40d8-9ac2-75369df138b1" />
-<img width="315" height="263" alt="image" src="https://github.com/user-attachments/assets/a99558df-047e-41d8-b32f-44f4d5737c3e" />
-<img width="583" height="691" alt="Diagramme de séquence" src="https://github.com/user-attachments/assets/f630dd15-e71a-4e5d-98be-9a628b05e4d3" />
-<img width="1089" height="746" alt="Diagramme d'utilisation" src="https://github.com/user-attachments/assets/9221ac41-14dd-47f0-a7f0-5624a2553a84" />
+<img width="798" height="703" alt="image" src="https://github.com/user-attachments/assets/57495167-7a33-49a8-b4e3-d95a7f678b63" />
+<img width="775" height="595" alt="image" src="https://github.com/user-attachments/assets/30c43838-1fbb-4cd1-a5eb-9e52b09126c1" />
+<img width="683" height="375" alt="image" src="https://github.com/user-attachments/assets/b6e27033-a4c0-492a-a653-3fe3aebfcac1" />
+
+
+
 
 
 

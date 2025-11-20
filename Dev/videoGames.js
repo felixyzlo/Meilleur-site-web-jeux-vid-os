@@ -1,28 +1,24 @@
 const API_KEY = "68b5709703904449a65e2d300624da63";
-const container = document.getElementById("games");
+const output = document.getElementById("output");
 
-async function loadGames() {
-    const url = `https://api.rawg.io/api/games?key=${API_KEY}&page_size=9`;
-    
+async function getGames() {
     try {
-        const response = await fetch(url);
+        const response = await fetch(
+            `https://api.rawg.io/api/games?key=${API_KEY}&page_size=5`
+        );
+        
         const data = await response.json();
+        console.log(data); // pour vérifier dans la console
 
-        data.results.forEach(game => {
-            const div = document.createElement("div");
-            div.className = "game";
-            div.innerHTML = `
-                <h3>${game.name}</h3>
-                <img src="${game.background_image}" alt="${game.name}">
-                <p>⭐ Note : ${game.rating}</p>
-            `;
-            container.appendChild(div);
-        });
+        // Affichage simple dans la page
+        output.innerHTML = data.results
+            .map(game => `<p>${game.name}</p>`)
+            .join("");
 
     } catch (error) {
-        console.error("Erreur :", error);
-        container.innerHTML = "<p>Impossible de charger les jeux.</p>";
+        console.error("Erreur API :", error);
+        output.textContent = "Impossible de récupérer les données.";
     }
 }
 
-loadGames();
+getGames();

@@ -4,11 +4,13 @@
         <title>Page de connexion</title>
         <link rel="stylesheet" href="pagedeconnexion.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+        <script type="text/javascript" src="validation.js" defer></script>
     </head>
     <body>
         <div class="container">
             <h1>Veuillez vous connecter</h1>
-            <form>
+            <form method="POST">
+            <form id="form">
             <div class="box">
                 <label><i class="fa-regular fa-user"></i></label>
                 <input type="text" placeholder="Nom d'utillisateur" required>
@@ -19,5 +21,6 @@
             </div>
             <input type="submit" value="Se connecter">
             </form>
+            </form>
         </div>
-    </body>ouig
+    </body>

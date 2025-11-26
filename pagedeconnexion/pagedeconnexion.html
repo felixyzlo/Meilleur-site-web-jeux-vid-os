@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Page de connexion</title>
+        <link rel="stylesheet" href="pagedeconnexion.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+        <script type="text/javascript" src="validation.js" defer></script>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Veuillez vous connecter</h1>
+
+            <form id="loginForm" method="POST" novalidate>
+                <div class="box">
+                    <label for="email"><i class="fa-solid fa-envelope"></i></label>
+                    <input id="email" name="email" type="email" placeholder="email" required autocomplete="email">
+                </div>
+
+                <div class="box">
+                    <label for="password"><i class="fa-solid fa-key"></i></label>
+                    <input id="password" name="password" type="password" placeholder="Mot de passe" required autocomplete="current-password">
+                </div>
+
+                <div class="form-actions">
+                    <input type="submit" value="Se connecter">
+                    <a class="signup-btn" href="inscription.html">S'inscrire</a>
+                </div>
+                <div class="error" aria-live="polite"></div>
+            </form>
+        </div>
+    </body>

@@ -1,7 +1,7 @@
 fetch('jeux.json')
   .then(response => response.json())
   .then(data => {
-    // Affiche le premier jeu du JSON dans l'élément avec l'id 'jeu'
+
     const jeu = data.results[0].games[0];
     const container = document.getElementById('jeu');
     if (container && jeu) {

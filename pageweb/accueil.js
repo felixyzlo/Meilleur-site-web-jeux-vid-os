@@ -32,7 +32,7 @@ async function getGamesList() {
                                 <div class="game-right">
                                         <div class="reviews">
                                             <div class="reviews-list" data-gameid="${escapeHtml(getGameKey(game))}"></div>
-                                            <button type="button" class="add-review">Ajouter un commentaire</button>
+                                            <button type="button" class="add-review">Ajouter un avis</button>
                                             <form class="review-form" style="display:none;" aria-hidden="true">
                                                 <label>
                                                     <div style="font-weight:700;margin-bottom:6px;color:inherit">Votre avis</div>
@@ -220,3 +220,4 @@ function renderReviews(container, gameKey){
     })
     container.appendChild(list)
 }
+

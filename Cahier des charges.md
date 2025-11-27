@@ -37,7 +37,7 @@
 <br>
 -Validation des champs avec JavaScript et stimulation d'une authentification réussie ou d'un message d'erreur.
 <br>
--Page d'inscription : Formulaire d'inscription avec des champs : nom, email, mot de passe 
+-Page d'inscription : Formulaire d'inscription avec les champs :email et mot de passe 
 <br>
 -Simulation de la création d'un compte avec un message de confirmation
 

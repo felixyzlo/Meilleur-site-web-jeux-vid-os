@@ -261,4 +261,8 @@ function renderReviews(container, gameKey){
     })
     container.appendChild(list)
 }
+
 // Affiche la liste des avis (jusqu'à 5) dans le container indiqué
+
+
+

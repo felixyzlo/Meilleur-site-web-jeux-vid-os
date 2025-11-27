@@ -2,8 +2,14 @@
 <html>
 <head>
     <title>Videogames</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="accueil.css">
    
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
 </head>
 
 <body>
@@ -11,14 +17,25 @@
 <div class="navigation">
     <ul>
         <li><a href="accueil.html">Accueil</a></li>
-        <li><a href="pagedeconnexion.html">Compte</a></li>
+        <li><a href="../pagedeconnexion/pagedeconnexion.html">Compte</a></li>
     </ul>
 </div>
 
-<div class="texte">
-    <h1>Bienvenue sur le site Web</h1>
-    <p>Dans ce site, nous vous présentons tous les jeux du moment 2025 avec nos avis en étant le plus objectif possible.</p>
-</div>
+<main class="wrap">
+    <section class="hero">
+        <div class="texte">
+            <h1>Bienvenue sur le site Web</h1>
+            <p>Découvrez les jeux du moment (2025) avec nos avis objectifs et fiches détaillées.</p>
+        </div>
+    </section>
+
+    <section class="games-section">
+        <h2 class="section-title">Tendances</h2>
+        <div id="games" class="games-grid" aria-live="polite"></div>
+    </section>
+</main>
+
+<script src="accueil.js"></script>
 
  <script src="app.js"></script>
 
